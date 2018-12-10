@@ -1,0 +1,10 @@
+category,GpuKMeansBatchGpu
+runtime,50.49162316322327
+r016,120471930.26
+r013,996511673.26
+instructions,2310707703.02
+cycles,3827067622.58
+gr3d,0.74
+gr3d_freq,1300.0
+emc,2.3
+emc_freq,1866.0
