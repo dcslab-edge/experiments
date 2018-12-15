@@ -1,0 +1,10 @@
+category,SparkDSLRCpu
+runtime,37.0460684299469
+llc_references,117060211.08333333
+llc_misses,968274899.5277777
+instructions,2264158306.4722223
+cycles,3756610872.972222
+gpu_core_util,0.4444444444444445
+gpu_core_freq,5610.0
+gpu_emc_util,9.444444444444445
+gpu_emc_freq,8000.0

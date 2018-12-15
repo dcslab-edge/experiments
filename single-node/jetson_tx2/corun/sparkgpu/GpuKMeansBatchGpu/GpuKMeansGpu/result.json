@@ -1,0 +1,7 @@
+{
+    "runtime": {
+        "GpuKMeansGpu": 59.95747709274292,
+        "GpuKMeansBatchGpu": 65.26244187355042
+    },
+    "power": []
+}

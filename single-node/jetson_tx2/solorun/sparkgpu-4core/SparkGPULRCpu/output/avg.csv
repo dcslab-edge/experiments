@@ -1,0 +1,10 @@
+category,SparkGPULRCpu
+runtime,25.071714401245117
+llc_references,177218384.9586777
+llc_misses,1462761008.7603307
+instructions,3361948274.214876
+cycles,5939353520.53719
+gpu_core_util,0.578512396694215
+gpu_core_freq,5610.0
+gpu_emc_util,18.18181818181818
+gpu_emc_freq,8000.0

@@ -1,0 +1,10 @@
+category,GpuKMeansBatchGpu
+runtime,95.91399312019348
+llc_references,161503068.77729258
+llc_misses,1331769914.4104805
+instructions,3030088280.371179
+cycles,5499248607.816593
+gpu_core_util,6.637554585152838
+gpu_core_freq,5610.0
+gpu_emc_util,20.10917030567686
+gpu_emc_freq,8000.0
