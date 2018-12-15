@@ -1,7 +1,0 @@
-{
-    "runtime": {
-        "SparkDSLRCpu_bg_core(4-5)": 43.56529951095581,
-        "SparkDSLRCpu_fg_core(0,3)": 44.387876987457275
-    },
-    "power": []
-}

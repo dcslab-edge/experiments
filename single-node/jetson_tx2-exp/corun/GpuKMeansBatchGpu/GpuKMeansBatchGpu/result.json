@@ -1,0 +1,7 @@
+{
+    "runtime": {
+        "GpuKMeansBatchGpu_fg_core(0,3)": 61.45501899719238,
+        "GpuKMeansBatchGpu_bg_core(4-5)": 61.381919384002686
+    },
+    "power": []
+}
