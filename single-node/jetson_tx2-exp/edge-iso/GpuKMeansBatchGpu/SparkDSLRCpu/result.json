@@ -1,0 +1,7 @@
+{
+    "runtime": {
+        "GpuKMeansBatchGpu": 54.76753568649292,
+        "SparkDSLRCpu": 69.94404911994934
+    },
+    "power": []
+}

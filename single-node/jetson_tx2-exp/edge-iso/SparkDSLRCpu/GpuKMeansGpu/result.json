@@ -1,0 +1,7 @@
+{
+    "runtime": {
+        "SparkDSLRCpu": 36.104100942611694,
+        "GpuKMeansGpu": 67.66071844100952
+    },
+    "power": []
+}

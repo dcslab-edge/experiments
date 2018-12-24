@@ -1,0 +1,7 @@
+{
+    "runtime": {
+        "GpuKMeansBatchGpu": 91.48158383369446,
+        "SPReceiver": 474.34240889549255
+    },
+    "power": []
+}
