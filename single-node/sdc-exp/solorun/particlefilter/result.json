@@ -1,0 +1,16 @@
+{
+    "runtime": {
+        "particlefilter": 165.73934030532837
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 4836965705,
+            "domains": {
+                "core": 265951734139,
+                "uncore": 262143333610,
+                "dram": 262769629859
+            }
+        }
+    ]
+}
