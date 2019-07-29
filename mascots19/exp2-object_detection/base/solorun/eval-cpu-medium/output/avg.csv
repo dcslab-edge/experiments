@@ -1,0 +1,10 @@
+category,ssd-eval-vgg-cpu-medium
+runtime,162.172993183136
+llc_references,94019149.35606061
+llc_misses,3715658.5984848486
+instructions,4435610971.521464
+cycles,3693883325.4671717
+gpu_core_util,0.625
+gpu_core_freq,6500.0
+gpu_emc_util,1.994949494949495
+gpu_emc_freq,9330.0

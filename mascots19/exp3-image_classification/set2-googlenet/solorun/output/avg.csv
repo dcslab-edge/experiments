@@ -1,0 +1,10 @@
+category,inceptionv3-eval-gpu
+runtime,23.594598531723022
+llc_references,71649551.63716814
+llc_misses,9307185.92920354
+instructions,1575935564.5575223
+cycles,2074511018.1858408
+gpu_core_util,112.52212389380531
+gpu_core_freq,6500.0
+gpu_emc_util,26.858407079646017
+gpu_emc_freq,9330.0

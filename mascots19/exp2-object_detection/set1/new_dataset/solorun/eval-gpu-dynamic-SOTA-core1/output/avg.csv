@@ -1,0 +1,10 @@
+category,ssd-eval-vgg-gpu-dynamic
+runtime,94.01525020599365
+llc_references,55940723.08035715
+llc_misses,2262809.051339286
+instructions,480104053.52678573
+cycles,1078162625.1785715
+gpu_core_util,200.45758928571428
+gpu_core_freq,6500.0
+gpu_emc_util,33.660714285714285
+gpu_emc_freq,9330.0

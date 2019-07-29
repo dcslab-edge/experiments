@@ -1,0 +1,7 @@
+{
+    "runtime": {
+        "squeezenet1_1-train-cpu": 5.995201349258423,
+        "squeezenet1_1-eval-gpu": 9.471739530563354
+    },
+    "power": []
+}

@@ -1,0 +1,10 @@
+category,ssd-eval-vgg-gpu-large
+runtime,107.39624834060669
+llc_references,74961701.1302682
+llc_misses,2224753.400383142
+instructions,576766280.775862
+cycles,1389760074.1283524
+gpu_core_util,176.86781609195404
+gpu_core_freq,6500.0
+gpu_emc_util,29.310344827586206
+gpu_emc_freq,9330.0

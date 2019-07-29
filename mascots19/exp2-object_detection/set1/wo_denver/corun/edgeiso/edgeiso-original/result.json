@@ -1,0 +1,7 @@
+{
+    "runtime": {
+        "ssd-eval-vgg-gpu-original": 105.96219539642334,
+        "ssd-train-vgg-cpu": 251.43544125556946
+    },
+    "power": []
+}

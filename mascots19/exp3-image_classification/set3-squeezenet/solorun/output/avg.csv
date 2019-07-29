@@ -1,0 +1,10 @@
+category,squeezenet1_1-eval-gpu
+runtime,9.115769624710083
+llc_references,88349480.69767442
+llc_misses,11587402.093023255
+instructions,1555771109.4186046
+cycles,2373915591.395349
+gpu_core_util,47.32558139534884
+gpu_core_freq,6500.0
+gpu_emc_util,17.558139534883722
+gpu_emc_freq,9330.0

@@ -1,0 +1,7 @@
+{
+    "runtime": {
+        "alexnet-eval-gpu": 18.488821506500244,
+        "alexnet-train-cpu": 579.6823623180389
+    },
+    "power": []
+}

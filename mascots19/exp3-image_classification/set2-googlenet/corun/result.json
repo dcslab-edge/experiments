@@ -1,0 +1,7 @@
+{
+    "runtime": {
+        "inceptionv3-eval-gpu": 23.7885160446167,
+        "inceptionv3-train-cpu": 1018.3175783157349
+    },
+    "power": []
+}

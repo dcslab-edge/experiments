@@ -1,0 +1,10 @@
+category,alexnet-eval-gpu
+runtime,18.45985198020935
+llc_references,63349617.808988765
+llc_misses,10078920.505617978
+instructions,2263218311.6853933
+cycles,2152656704.3258424
+gpu_core_util,87.07865168539327
+gpu_core_freq,6500.0
+gpu_emc_util,24.04494382022472
+gpu_emc_freq,9330.0

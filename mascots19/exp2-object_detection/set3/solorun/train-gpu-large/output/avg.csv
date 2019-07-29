@@ -1,0 +1,10 @@
+category,ssd-train-vgg-gpu
+runtime,416.0089535713196
+llc_references,18980510.216428924
+llc_misses,2676217.2872602064
+instructions,402143962.8799803
+cycles,439346850.70831287
+gpu_core_util,473.39645843580917
+gpu_core_freq,6500.0
+gpu_emc_util,120.13526807673388
+gpu_emc_freq,9330.0
