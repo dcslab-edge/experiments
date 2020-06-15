@@ -1,0 +1,38 @@
+{
+  "workloads": [
+    {
+      "name": "ssd-eval-vgg-gpu-small",
+      "type": "LC",
+      "num_of_threads": 2,
+      "binding_cores": "0,3",
+      "numa_nodes": "0",
+      "cpu_freq": 2.1,
+      "cpu_percent": 100,
+      "gpu_freq" : 1300500000,
+      "memory_limit": 100,
+      "batch_size": 1,
+      "diff_slack": 0.6
+    },
+    {
+      "name": "ssd-train-vgg-cpu",
+      "type": "BE",
+      "num_of_threads": 2,
+      "binding_cores": "4,5",
+      "numa_nodes": "0",
+      "cpu_freq": 2.1,
+      "cpu_percent": 100,
+      "gpu_freq" : 1300500000,
+      "memory_limit": 100,
+      "batch_size": 2,
+      "diff_slack": 0
+    }
+  ],
+  "launcher": {
+    "hyper-threading": false,
+    "stops_with_the_first": false,
+    "post_scripts" : [
+      "avg_csv.py",
+      "percentile.py"
+    ]
+  }
+}

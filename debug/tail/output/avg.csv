@@ -1,0 +1,10 @@
+category,tail-img-dnn
+runtime,108.98627257347107
+llc_references,253219450.09823185
+llc_misses,48863551.12966601
+instructions,2435723224.3811398
+cycles,3938497040.510805
+gpu_core_util,0.550098231827112
+gpu_core_freq,6500.0
+gpu_emc_util,37.524557956778
+gpu_emc_freq,9330.0

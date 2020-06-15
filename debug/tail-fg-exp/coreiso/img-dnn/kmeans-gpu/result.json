@@ -1,0 +1,7 @@
+{
+    "runtime": {
+        "ntail-img-dnn": 38.52931833267212,
+        "GpuKMeansBatchGpu": 62.43204140663147
+    },
+    "power": []
+}

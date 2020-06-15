@@ -1,0 +1,7 @@
+{
+    "runtime": {
+        "ntail-xapian": 40.773714542388916,
+        "GpuKMeansBatchGpu": 62.026216983795166
+    },
+    "power": []
+}

@@ -1,0 +1,7 @@
+{
+    "runtime": {
+        "ntail-sphinx": 42.86456823348999,
+        "GpuKMeansBatchGpu": 61.10645842552185
+    },
+    "power": []
+}

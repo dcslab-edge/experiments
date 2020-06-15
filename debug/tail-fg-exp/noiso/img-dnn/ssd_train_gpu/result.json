@@ -1,0 +1,7 @@
+{
+    "runtime": {
+        "ssd-train-vgg-gpu": 28.18670105934143,
+        "ntail-img-dnn": 37.82835841178894
+    },
+    "power": []
+}

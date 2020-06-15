@@ -1,0 +1,10 @@
+category,ntail-xapian
+runtime,36.85456895828247
+llc_references,147492383.89570552
+llc_misses,23307139.81595092
+instructions,3215629662.5766873
+cycles,3954786224.93865
+gpu_core_util,0.705521472392638
+gpu_core_freq,6500.0
+gpu_emc_util,19.32515337423313
+gpu_emc_freq,9330.0

@@ -1,0 +1,10 @@
+category,ntail-sphinx
+runtime,40.31257605552673
+llc_references,100615717.60355029
+llc_misses,28954832.27810651
+instructions,1500699575.6508875
+cycles,4004996439.8816566
+gpu_core_util,0.47337278106508873
+gpu_core_freq,6500.0
+gpu_emc_util,18.34319526627219
+gpu_emc_freq,9330.0

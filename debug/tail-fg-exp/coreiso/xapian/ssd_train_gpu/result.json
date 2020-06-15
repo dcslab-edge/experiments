@@ -1,0 +1,7 @@
+{
+    "runtime": {
+        "ssd-train-vgg-gpu": 25.83040142059326,
+        "ntail-xapian": 36.63042998313904
+    },
+    "power": []
+}
