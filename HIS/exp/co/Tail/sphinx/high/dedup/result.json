@@ -1,0 +1,22 @@
+{
+    "runtime": {
+        "dedup": 9.90973162651062,
+        "ntail-sphinx": 29.808242559432983
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 1725896888,
+            "domains": {
+                "dram": 65842043822
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 889405255,
+            "domains": {
+                "dram": 65784936403
+            }
+        }
+    ]
+}

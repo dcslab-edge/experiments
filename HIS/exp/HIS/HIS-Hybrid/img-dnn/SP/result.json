@@ -1,0 +1,22 @@
+{
+    "runtime": {
+        "ntail-img-dnn": 74.24447584152222,
+        "SP": 198.26457357406616
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 13003690953,
+            "domains": {
+                "dram": 67108486114
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 6316010077,
+            "domains": {
+                "dram": 66244903440
+            }
+        }
+    ]
+}

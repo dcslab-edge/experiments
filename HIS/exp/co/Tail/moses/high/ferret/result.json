@@ -1,0 +1,22 @@
+{
+    "runtime": {
+        "ferret": 64.12798118591309,
+        "ntail-moses": 75.89364504814148
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 4483542538,
+            "domains": {
+                "dram": 66039953345
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 2147779475,
+            "domains": {
+                "dram": 65908320438
+            }
+        }
+    ]
+}

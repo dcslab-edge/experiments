@@ -1,0 +1,21 @@
+{
+    "runtime": {
+        "vips": 15.813231945037842
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 1387355152,
+            "domains": {
+                "dram": 65796086645
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 817427289,
+            "domains": {
+                "dram": 65767802546
+            }
+        }
+    ]
+}

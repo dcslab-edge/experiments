@@ -1,0 +1,22 @@
+{
+    "runtime": {
+        "canneal": 63.52732801437378,
+        "ntail-img-dnn": 225.79776763916016
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 7089469949,
+            "domains": {
+                "dram": 534457595
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 5869164601,
+            "domains": {
+                "dram": 66173351536
+            }
+        }
+    ]
+}

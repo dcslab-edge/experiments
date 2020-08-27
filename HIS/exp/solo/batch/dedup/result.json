@@ -1,0 +1,21 @@
+{
+    "runtime": {
+        "dedup": 8.892660856246948
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 644745481,
+            "domains": {
+                "dram": 65760920131
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 474738286,
+            "domains": {
+                "dram": 65751566553
+            }
+        }
+    ]
+}

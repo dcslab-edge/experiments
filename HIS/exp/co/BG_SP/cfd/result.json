@@ -1,0 +1,22 @@
+{
+    "runtime": {
+        "cfd": 85.75129055976868,
+        "SP": 152.19345998764038
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 13816599700,
+            "domains": {
+                "dram": 67011591917
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 5262737077,
+            "domains": {
+                "dram": 66104074070
+            }
+        }
+    ]
+}

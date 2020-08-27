@@ -1,0 +1,13 @@
+category,ntail-masstree
+runtime,19.998412132263184
+llc_references,12388880.5625
+llc_misses,1853746.6875
+instructions,698001083.1875
+cycles,1122903469.625
+stall_cycles,577992055.3125
+intra_coh,1664915.6875
+inter_coh,45.1875
+wall_cycles,2116106105.25
+llc_size,186327040.0
+local_mem,174600192.0
+remote_mem,376832.0

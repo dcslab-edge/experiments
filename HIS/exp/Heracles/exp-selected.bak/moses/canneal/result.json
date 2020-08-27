@@ -1,0 +1,22 @@
+{
+    "runtime": {
+        "ntail-moses": 75.81862902641296,
+        "canneal": 105.32301139831543
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 4026816412,
+            "domains": {
+                "dram": 66123836881
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 3290863462,
+            "domains": {
+                "dram": 66005447653
+            }
+        }
+    ]
+}

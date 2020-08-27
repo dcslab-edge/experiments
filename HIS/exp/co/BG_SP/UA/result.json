@@ -1,0 +1,22 @@
+{
+    "runtime": {
+        "SP": 198.53121948242188,
+        "UA": 206.39393162727356
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 20398225857,
+            "domains": {
+                "dram": 67645303627
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 7550724933,
+            "domains": {
+                "dram": 66287066338
+            }
+        }
+    ]
+}

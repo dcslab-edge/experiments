@@ -1,0 +1,22 @@
+{
+    "runtime": {
+        "bodytrack": 29.508713960647583,
+        "ntail-xapian": 52.83240509033203
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 2254929530,
+            "domains": {
+                "dram": 65839199903
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 1695656182,
+            "domains": {
+                "dram": 65835199688
+            }
+        }
+    ]
+}

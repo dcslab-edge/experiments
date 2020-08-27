@@ -1,0 +1,22 @@
+{
+    "runtime": {
+        "bodytrack": 29.385730743408203,
+        "ntail-moses": 75.96131920814514
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 2459733999,
+            "domains": {
+                "dram": 65891085217
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 1940339637,
+            "domains": {
+                "dram": 65875433593
+            }
+        }
+    ]
+}

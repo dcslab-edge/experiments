@@ -1,0 +1,22 @@
+{
+    "runtime": {
+        "dedup": 10.254220962524414,
+        "ntail-moses": 76.07440638542175
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 2126502796,
+            "domains": {
+                "dram": 65883901087
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 1898037133,
+            "domains": {
+                "dram": 65861067581
+            }
+        }
+    ]
+}

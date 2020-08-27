@@ -1,0 +1,22 @@
+{
+    "runtime": {
+        "cfd": 64.7654025554657,
+        "ntail-moses": 76.1108570098877
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 4283321737,
+            "domains": {
+                "dram": 66048147230
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 2113499411,
+            "domains": {
+                "dram": 65901503064
+            }
+        }
+    ]
+}

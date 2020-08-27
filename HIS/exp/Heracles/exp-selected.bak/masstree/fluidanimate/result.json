@@ -1,0 +1,22 @@
+{
+    "runtime": {
+        "ntail-masstree": 31.96437692642212,
+        "fluidanimate": 90.54630494117737
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 5037025069,
+            "domains": {
+                "dram": 66091147130
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 2875675012,
+            "domains": {
+                "dram": 65951532718
+            }
+        }
+    ]
+}

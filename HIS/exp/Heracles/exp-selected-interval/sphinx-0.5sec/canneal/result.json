@@ -1,0 +1,22 @@
+{
+    "runtime": {
+        "ntail-sphinx": 24.845561027526855,
+        "canneal": 28.955724000930786
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 1765608273,
+            "domains": {
+                "dram": 65864011852
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 959641159,
+            "domains": {
+                "dram": 65789515938
+            }
+        }
+    ]
+}

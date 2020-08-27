@@ -1,0 +1,22 @@
+{
+    "runtime": {
+        "ntail-xapian": 52.00349497795105,
+        "cfd": 63.28178262710571
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 4267569153,
+            "domains": {
+                "dram": 66007668708
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 2101338066,
+            "domains": {
+                "dram": 65874272170
+            }
+        }
+    ]
+}

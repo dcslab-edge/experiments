@@ -1,0 +1,13 @@
+category,ntail-sphinx
+runtime,24.622470140457153
+llc_references,345669422.84999996
+llc_misses,85622031.7
+instructions,15028881677.0
+cycles,16427227296.900002
+stall_cycles,7961340465.15
+intra_coh,22221.95
+inter_coh,0.7000000000000001
+wall_cycles,2113556500.0
+llc_size,207794995.2
+local_mem,4301632307.200001
+remote_mem,12133990.4

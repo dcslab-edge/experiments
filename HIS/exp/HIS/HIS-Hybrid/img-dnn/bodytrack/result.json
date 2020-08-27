@@ -1,0 +1,22 @@
+{
+    "runtime": {
+        "ntail-img-dnn": 76.59811544418335,
+        "bodytrack": 81.05639815330505
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 2836181765,
+            "domains": {
+                "dram": 65901536525
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 2415661174,
+            "domains": {
+                "dram": 65928127680
+            }
+        }
+    ]
+}

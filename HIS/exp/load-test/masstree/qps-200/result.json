@@ -1,0 +1,21 @@
+{
+    "runtime": {
+        "ntail-masstree": 88.53096413612366
+    },
+    "power": [
+        {
+            "package_name": "package-0",
+            "power": 1747931987,
+            "domains": {
+                "dram": 65806399488
+            }
+        },
+        {
+            "package_name": "package-1",
+            "power": 2010660685,
+            "domains": {
+                "dram": 65834524483
+            }
+        }
+    ]
+}
